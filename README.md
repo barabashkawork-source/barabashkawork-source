@@ -17,19 +17,13 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 **Бэкенд и базы данных**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Инструменты**
 
@@ -37,7 +31,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -49,10 +42,9 @@
 ### React и Next.js
 - Компонентный подход, переиспользуемые компоненты
 - Хуки (`useState`, `useEffect`, `useMemo`, `useCallback`, `useRef`), собственные хуки
-- Context API, Redux Toolkit, Zustand для управления состоянием
+- Context API, Redux Toolkit
 - Next.js App Router, серверные и клиентские компоненты
-- SSR, SSG, ISR, API Routes, Server Actions
-- Маршрутизация, динамические страницы, middleware
+- Маршрутизация, динамические страницы
 
 ### TypeScript и JavaScript
 - Современный JavaScript (ES6+): деструктуризация, модули, async/await, Promise
@@ -67,10 +59,10 @@
 - Семантичная разметка и базовая доступность (a11y)
 
 ### Работа с данными
-- REST API: fetch, axios, TanStack Query
+- REST API
 - Обработка состояний загрузки, ошибок и пустых данных
-- Формы и валидация (React Hook Form, Zod)
-- Базы данных PostgreSQL и SQLite, ORM Prisma
+- Формы и валидация (React Hook Form)
+- Базы данных PostgreSQL и SQLite
 
 ### Качество и деплой
 - Git: ветки, pull request, разрешение конфликтов
